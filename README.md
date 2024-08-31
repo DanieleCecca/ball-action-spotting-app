@@ -1,5 +1,5 @@
 # Ball-action-spotting-app
-This project focuses on the development and implementation of **classification system for ball event in a football match**, also called ball action spotting.
+This project focuses on the development and implementation of **classification system for ball events in a football match**, also called ball action spotting.
 It utilizes the **SoccerNet dataset** and draws inspiration from previously proposed solutions.
 
 ### Soccer Ball Actions Detected
@@ -23,9 +23,9 @@ ball-action-spotting-app/
 │   ├── app.py                 # Main app script
 │   ├── model.py               # Network definition 
 │   ├── video_prediction.py    # Video processing and prediction logic
-│   └── requirements.txt       #Python dependencies
+│   └── requirements.txt       # Python dependencies
 │
-└── presentation/       presentation of the project
+└── presentation/              # Presentation of the project
 ```
 
 ### How to Run the App
