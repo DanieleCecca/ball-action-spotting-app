@@ -23,6 +23,7 @@ ball-action-spotting-app/
 │   ├── app.py                 # Main app script
 │   ├── model.py               # Network definition 
 │   ├── video_prediction.py    # Video processing and prediction logic
+│   ├── train_model.h          # Model weights
 │   └── requirements.txt       # Python dependencies
 │
 └── presentation/              # Presentation of the project
