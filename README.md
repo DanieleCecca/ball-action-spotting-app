@@ -31,8 +31,9 @@ ball-action-spotting-app/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/ball-action-spotting-app.git
-
+   
 2. **Navigate to the Application Directory**:
+```bash
   cd ball-action-spotting-app/streamlit_app
 
 4. **Install Required Dependencies**:
