@@ -14,18 +14,19 @@ It utilizes the **SoccerNet dataset** and draws inspiration from previously prop
 
 
 ### Structure of the project
-
+```
 ball-action-spotting-app/
 │
-├── notebooks/          Jupyter notebooks for model training and experimentation
+├── notebooks/                 #Jupyter notebooks for model training and experimentation
 │
-├── streamlit_app/      Contains the Streamlit app code
-│   ├── app.py/         Main app script
-│   ├── model.py /      Network definition 
-│   ├── video_prediction.py/  Video processing and prediction logic
-│   └── requirements.txt/    Python dependencies
+├── streamlit_app/             # Contains the Streamlit app code
+│   ├── app.py                 # Main app script
+│   ├── model.py               # Network definition 
+│   ├── video_prediction.py    # Video processing and prediction logic
+│   └── requirements.txt       #Python dependencies
 │
 └── presentation/       presentation of the project
+```
 
 ### How to Run the App
 
